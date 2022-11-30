@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		75E649D729347CBF0089FFFF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E649D629347CBF0089FFFF /* main.swift */; };
+		75E649DE29347D490089FFFF /* RealEstste.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E649DD29347D490089FFFF /* RealEstste.swift */; };
+		75E649E029347E6D0089FFFF /* Flat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E649DF29347E6D0089FFFF /* Flat.swift */; };
+		75E649E2293661460089FFFF /* Stock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E649E1293661460089FFFF /* Stock.swift */; };
+		75E649E42936638D0089FFFF /* Garage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E649E32936638D0089FFFF /* Garage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		75E649D329347CBF0089FFFF /* homeWork24 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = homeWork24; sourceTree = BUILT_PRODUCTS_DIR; };
 		75E649D629347CBF0089FFFF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		75E649DD29347D490089FFFF /* RealEstste.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealEstste.swift; sourceTree = "<group>"; };
+		75E649DF29347E6D0089FFFF /* Flat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flat.swift; sourceTree = "<group>"; };
+		75E649E1293661460089FFFF /* Stock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stock.swift; sourceTree = "<group>"; };
+		75E649E32936638D0089FFFF /* Garage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Garage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				75E649D629347CBF0089FFFF /* main.swift */,
+				75E649DD29347D490089FFFF /* RealEstste.swift */,
+				75E649DF29347E6D0089FFFF /* Flat.swift */,
+				75E649E1293661460089FFFF /* Stock.swift */,
+				75E649E32936638D0089FFFF /* Garage.swift */,
 			);
 			path = homeWork24;
 			sourceTree = "<group>";
@@ -121,6 +133,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				75E649D729347CBF0089FFFF /* main.swift in Sources */,
+				75E649E029347E6D0089FFFF /* Flat.swift in Sources */,
+				75E649E2293661460089FFFF /* Stock.swift in Sources */,
+				75E649DE29347D490089FFFF /* RealEstste.swift in Sources */,
+				75E649E42936638D0089FFFF /* Garage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
